@@ -1,5 +1,8 @@
 _repo: Five-years-of-youth-b-or-sense-and-sentiment_71156
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71156-h/images/cover.jpg
 creator:
   author:
     agent_name: Martineau, Harriet
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25319
     wikipedia: https://en.wikipedia.org/wiki/Harriet_Martineau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71156#Five-years-of-youth-b-or-sense-and-sentiment
 gutenberg_issued: '2023-07-09'
 identifiers:
   gutenberg: '71156'
